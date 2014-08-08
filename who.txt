@@ -1,3 +1,5 @@
+======================================== Like And Dislike ========================================
+
 L: like, D: dislike
 rating of like: 5 level
 1 - most trival
@@ -15,6 +17,12 @@ rating of dislike: 5 level
 * [L4]budism
 * [L4]Bertrand Russel -- 
 * [L3]Faye
+* [L4]Rorty -- //He says the practical part which can be considered exactly the fundamental things what many people's think base on.
+//zj
+
 
 ===dislike===
 * [D5]heidger -- //fake, dishonest
+//yy
+
+======================================== Evidence Of Escape ========================================
